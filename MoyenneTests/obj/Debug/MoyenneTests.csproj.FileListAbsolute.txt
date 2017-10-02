@@ -1,0 +1,11 @@
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\MoyenneTests.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\MoyenneTests.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\Moyenne.exe
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\MySql.Data.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\Moyenne.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\MySql.Data.xml
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.csprojResolveAssemblyReference.cache
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.pdb
