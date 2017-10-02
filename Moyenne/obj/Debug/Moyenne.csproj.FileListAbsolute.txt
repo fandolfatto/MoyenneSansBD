@@ -52,3 +52,18 @@ C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\Correction Moyenne\Moyenne
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\Correction Moyenne\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\Correction Moyenne\Moyenne\obj\Debug\Moyenne.frmSaisieNote.resources
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\Correction Moyenne\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\Moyenne.exe.config
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.exe
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\Moyenne.exe
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\Moyenne.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\MySql.Data.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\MySql.Web.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\MySql.Data.xml
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\bin\Debug\MySql.Web.xml
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.csprojResolveAssemblyReference.cache
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.frmEleve.resources
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.frmClasse.resources
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.Properties.Resources.resources
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.frmSaisieNote.resources
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\Moyenne\obj\Debug\Moyenne.csproj.GenerateResource.Cache

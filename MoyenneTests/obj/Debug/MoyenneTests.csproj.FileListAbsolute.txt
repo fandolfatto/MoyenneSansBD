@@ -9,3 +9,12 @@ C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\bi
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.csprojResolveAssemblyReference.cache
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.dll
 C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 3\Moyenne V2\MoyenneTests\obj\Debug\MoyenneTests.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\MoyenneTests.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\MoyenneTests.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\Moyenne.exe
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\Moyenne.pdb
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\obj\Debug\MoyenneTests.csprojResolveAssemblyReference.cache
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\obj\Debug\MoyenneTests.dll
+C:\Data\Cours\2017-2018\226a\cours avec FPA\semaine 6\MoyenneSansBD\MoyenneTests\obj\Debug\MoyenneTests.pdb
